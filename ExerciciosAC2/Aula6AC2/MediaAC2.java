@@ -27,11 +27,6 @@ public  class MediaAC2 {
          
          System.out.print("Digite a nota da AF ");
          double af = scanner.nextDouble();
-
-        //Solicita a media da instituiçao do usuario
-        System.out.print("Digite a media da sua instituiçao ");
-         double media = scanner.nextDouble();
-        
         
         
          // Calcula a soma dos dois números
